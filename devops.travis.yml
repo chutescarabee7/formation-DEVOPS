@@ -2,3 +2,10 @@ language: ruby
 rvm:
  - 2.2
  - jruby
+
+puts 'Hello World !!!'
+Hello World !!!
+=> nil
+
+ print 'Hello World !!!'
+ Hello World !!!=> nil
